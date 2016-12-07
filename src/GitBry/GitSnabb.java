@@ -5,5 +5,5 @@ package GitBry;
  */
 public class GitSnabb {
     private String gitText = "Fuck off";
-    
+    String k = "ubfibadiugbiaubdsfiuabsfdbasdf";
 }
